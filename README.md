@@ -29,7 +29,7 @@ username: ''
 
 ### 2.2 關於 LINE Notify Token
 
-1. #### 前往 https://notify-bot.line.me/en/ 並使用您的 Line 帳號登錄。
+1. #### 前往 https://notify-bot.line.me/zh_TW/ 並使用您的 Line 帳號登錄。
 
 2. #### 點擊「個人頁面」 > 發行權杖。
 
